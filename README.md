@@ -1,3 +1,8 @@
+<h> Requirements </h>
+
+- CMAKE 3.0
+- gcc-8 g++8
+
 <h> How to run </h>
 
 - `mkdir build`
