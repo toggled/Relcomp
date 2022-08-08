@@ -1,0 +1,13 @@
+.settings/
+build/
+.cproject
+.project
+bags
+index
+root
+stats
+tree
+*.pdf
+*.csv
+*.vcxproj
+*.vcxproj.user
